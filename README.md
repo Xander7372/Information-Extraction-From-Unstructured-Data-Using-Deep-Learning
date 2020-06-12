@@ -15,18 +15,15 @@ We have used Bleu and Cider metric to evaluate the image captioning results. You
 4.	Detailed steps of project functioning:
 
 4.1	which server(college) we have used:-
- EL GPU Server (192.168.4.253)
+ EL GPU Server ()
 4.2	all installation steps in that server:-
 
 1.	 User can log into the server using SSH.
 command to connect to the server:
- ssh abhishek@192.168.4.253
+ ssh username@server_ip
 2.	Python scripts can be submitted for execution using commands "pycompute27" or "pycompute35" which use Python2.7 and Python3.5 respectively.
 3.	 Help for these commands are located in ~/Documents/help_compute.txt. The help file mentions MATLAB but the command syntax is same for Python
 4.	 User should create their own virtual environment in their home directory and install required packages via pip.
-
-4.3	userid and password:- 
-    userid:- abhishek         password:-abhishek@rait
 
 4.4	need all steps to run our project from client environment:-
 
